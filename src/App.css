@@ -1,0 +1,12 @@
+.App{
+  background-color: rgb(80, 74, 87);
+  min-height: 100vh;
+}
+
+.Timer{
+  color: white;
+  position: absolute;
+  left: 500px;
+  top:200px;
+  font-size: 100px;
+}
